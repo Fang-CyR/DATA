@@ -1,0 +1,48 @@
+{
+    "loader":{
+        "version": "1.4"
+    },
+    "announce_ttl": {
+        "name": "Welcome to skullshooter, click here to join our telegram channel for more announcement"
+    },
+    "weather32": {
+        "typeWeather": "Clear"
+    },
+    "status32bit":{
+        "name": "Safe"
+    },
+    "status64bit": {
+        "name": "unsafe"
+    },
+    "plugin": {
+        "version": "1.1.0",
+        "url": "https://raw.githubusercontent.com/Fang-CyR/DATA/main/plugin.apk"
+    },
+    "plugin64": {
+        "version": "1.0.6",
+        "url": "https://raw.githubusercontent.com/Fang-CyR/DATA/main/plugin64.apk"
+    },
+    "ismaintenance": {
+        "version": "",
+        "name": "false"
+    },
+    "libpg32NativeArm_v8a.so": {
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/Fang-CyR/DATA/main/liblibpg-lib.so"
+    },
+    
+    "libpg32NativeArm_v7a.so": {
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/Fang-CyR/DATA/main/liblibpg-lib.so"
+    },
+    "libpg64NativeArm_v8a.so": {
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/Fang-CyR/DATA/main/liblibpg64-lib.so"
+    },
+   "libpg64NativeArm_v7a.so": {
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/Fang-CyR/DATA/main/liblibpg64-lib.so"
+    }
+    
+    
+}
