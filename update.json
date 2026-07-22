@@ -23,8 +23,8 @@
         "url": "https://raw.githubusercontent.com/Fang-CyR/DATA/main/plugin64.apk"
     },
     "ismaintenance": {
-        "version": "",
-        "name": "false"
+        "version": "1.0.0",
+        "name": "true"
     },
     "libpg32NativeArm_v8a.so": {
         "version": "1.0.0",
